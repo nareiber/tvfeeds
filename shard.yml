@@ -1,0 +1,14 @@
+name: tvfeeds
+version: 0.1.0
+
+authors:
+  - Nick Reiber <Nicholas.Reiber@bestbuy.com>
+
+targets:
+  tvfeeds:
+    main: src/tvfeeds.cr
+
+crystal: 0.20.5
+
+license: MIT
+
